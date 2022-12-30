@@ -7,12 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://about.cichy1173.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About me</title>
+      <link>https://about.cichy1173.eu/about/</link>
+      <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
+      
+      <guid>https://about.cichy1173.eu/about/</guid>
+      <description>about</description>
+    </item>
+    
+    <item>
       <title>How this website is working?</title>
       <link>https://about.cichy1173.eu/how/</link>
       <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
       
       <guid>https://about.cichy1173.eu/how/</guid>
       <description>how</description>
+    </item>
+    
+    <item>
+      <title>My Projects</title>
+      <link>https://about.cichy1173.eu/myprojects/</link>
+      <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
+      
+      <guid>https://about.cichy1173.eu/myprojects/</guid>
+      <description>projects</description>
     </item>
     
   </channel>
