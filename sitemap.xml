@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://about.cichy1173.eu/</loc>
     <lastmod>2022-12-30T17:46:06+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://about.cichy1173.eu/posts/</loc>
     <lastmod>2022-12-30T17:46:06+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/third/</loc>
+    <loc>https://about.cichy1173.eu/posts/third/</loc>
     <lastmod>2022-12-30T17:46:06+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/second/</loc>
+    <loc>https://about.cichy1173.eu/posts/second/</loc>
     <lastmod>2022-12-30T17:45:59+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://about.cichy1173.eu/categories/</loc>
     <lastmod>2022-12-30T17:45:10+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/first/</loc>
+    <loc>https://about.cichy1173.eu/posts/first/</loc>
     <lastmod>2022-12-30T17:45:10+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/first_test/</loc>
+    <loc>https://about.cichy1173.eu/categories/first_test/</loc>
     <lastmod>2022-12-30T17:45:10+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://about.cichy1173.eu/tags/</loc>
     <lastmod>2022-12-30T17:45:10+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/test/</loc>
+    <loc>https://about.cichy1173.eu/tags/test/</loc>
     <lastmod>2022-12-30T17:45:10+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://about.cichy1173.eu/archives/</loc>
   </url>
 </urlset>
