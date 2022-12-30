@@ -1,39 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Grzegorz Cichocki</title>
     <link>https://about.cichy1173.eu/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Grzegorz Cichocki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 17:46:06 +0100</lastBuildDate><atom:link href="https://about.cichy1173.eu/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://about.cichy1173.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Third</title>
-      <link>https://about.cichy1173.eu/posts/third/</link>
-      <pubDate>Fri, 30 Dec 2022 17:46:06 +0100</pubDate>
+      <title>How this website is working?</title>
+      <link>https://about.cichy1173.eu/how/</link>
+      <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
       
-      <guid>https://about.cichy1173.eu/posts/third/</guid>
-      <description></description>
+      <guid>https://about.cichy1173.eu/how/</guid>
+      <description>how</description>
     </item>
-    
-    <item>
-      <title>Second</title>
-      <link>https://about.cichy1173.eu/posts/second/</link>
-      <pubDate>Fri, 30 Dec 2022 17:45:59 +0100</pubDate>
-      
-      <guid>https://about.cichy1173.eu/posts/second/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://about.cichy1173.eu/posts/first/</link>
-      <pubDate>Fri, 30 Dec 2022 17:45:10 +0100</pubDate>
-      
-      <guid>https://about.cichy1173.eu/posts/first/</guid>
-      <description>First time ever</description>
-    </item>
-    
     
   </channel>
 </rss>

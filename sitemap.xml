@@ -2,33 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://about.cichy1173.eu/</loc>
-    <lastmod>2022-12-30T17:46:06+01:00</lastmod>
-  </url><url>
-    <loc>https://about.cichy1173.eu/posts/</loc>
-    <lastmod>2022-12-30T17:46:06+01:00</lastmod>
-  </url><url>
-    <loc>https://about.cichy1173.eu/posts/third/</loc>
-    <lastmod>2022-12-30T17:46:06+01:00</lastmod>
-  </url><url>
-    <loc>https://about.cichy1173.eu/posts/second/</loc>
-    <lastmod>2022-12-30T17:45:59+01:00</lastmod>
+    <loc>https://about.cichy1173.eu/how/</loc>
+    <lastmod>2022-12-30T18:50:22+01:00</lastmod>
   </url><url>
     <loc>https://about.cichy1173.eu/categories/</loc>
-    <lastmod>2022-12-30T17:45:10+01:00</lastmod>
   </url><url>
-    <loc>https://about.cichy1173.eu/posts/first/</loc>
-    <lastmod>2022-12-30T17:45:10+01:00</lastmod>
-  </url><url>
-    <loc>https://about.cichy1173.eu/categories/first_test/</loc>
-    <lastmod>2022-12-30T17:45:10+01:00</lastmod>
+    <loc>https://about.cichy1173.eu/</loc>
   </url><url>
     <loc>https://about.cichy1173.eu/tags/</loc>
-    <lastmod>2022-12-30T17:45:10+01:00</lastmod>
-  </url><url>
-    <loc>https://about.cichy1173.eu/tags/test/</loc>
-    <lastmod>2022-12-30T17:45:10+01:00</lastmod>
-  </url><url>
-    <loc>https://about.cichy1173.eu/archives/</loc>
   </url>
 </urlset>
