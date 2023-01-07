@@ -12,7 +12,7 @@
       <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
       
       <guid>https://about.cichy1173.eu/about/</guid>
-      <description>Post where I list information about me</description>
+      <description>about</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
       
       <guid>https://about.cichy1173.eu/how/</guid>
-      <description>Post where I write how this website works</description>
+      <description>how</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@
       <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
       
       <guid>https://about.cichy1173.eu/myprojects/</guid>
-      <description>Post where I list all my projects</description>
+      <description>projects</description>
     </item>
     
   </channel>
