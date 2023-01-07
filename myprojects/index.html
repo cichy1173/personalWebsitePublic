@@ -180,7 +180,7 @@
       My Projects
     </h1>
   </header> <div class="toc">
-    <details >
+    <details  open>
         <summary accesskey="c" title="(Alt + C)">
             <span class="details">Table of Contents</span>
         </summary>
@@ -260,7 +260,7 @@
 <h3 id="yunodnsupdater">yunoDnsUpdater<a hidden class="anchor" aria-hidden="true" href="#yunodnsupdater">#</a></h3>
 <p>Dynamic DNS can be a real pain. It is possible to update IP address with DynDNS service but I just don&rsquo;t want to use it. So I bought domain from <a href="https://www.gandi.net/en-US">Gandi</a> because it has open API. This API can be used in YunoHost. Now I am updating my IP address with special <code>yunohost</code> command. But sometimes YunoHost online services (especially <code>ip.yunohost.org</code>) may not be available. So i created really basic bash script, that checks if YunoHost services are available. <strong>It is open source and available at GitHub.</strong></p>
 <p>Just like <a href="#personal-backup-script">backup script</a>, yunoDnsUpdater uses cron to refresh in every 5 minutes. This is how command looks like:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>*/5 * * * * ./main.sh &lt;your.domain&gt;
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>*/5 * * * * ./main.sh &lt;domain&gt;
 </span></span></code></pre></div><ul>
 <li>Check <code>yunoDnsUpdater</code> repository <a href="https://github.com/cichy1173/yunoDnsUpdater">here</a></li>
 </ul>
