@@ -2,24 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://about.cichy1173.eu/about/</loc>
     <lastmod>2022-12-30T18:50:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://about.cichy1173.eu/</loc>
     <lastmod>2022-12-30T18:50:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/how/</loc>
+    <loc>https://about.cichy1173.eu/how/</loc>
     <lastmod>2022-12-30T18:50:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myprojects/</loc>
+    <loc>https://about.cichy1173.eu/myprojects/</loc>
     <lastmod>2022-12-30T18:50:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/profilepicture/</loc>
+    <loc>https://about.cichy1173.eu/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://about.cichy1173.eu/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://about.cichy1173.eu/tags/</loc>
   </url>
 </urlset>
