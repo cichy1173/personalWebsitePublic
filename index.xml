@@ -2,36 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Grzegorz Cichocki</title>
-    <link>https://about.cichy1173.eu/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Grzegorz Cichocki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://about.cichy1173.eu/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2022 18:50:22 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://about.cichy1173.eu/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
-      
-      <guid>https://about.cichy1173.eu/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>about</description>
     </item>
-    
     <item>
       <title>How does this website work?</title>
-      <link>https://about.cichy1173.eu/how/</link>
+      <link>http://localhost:1313/how/</link>
       <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
-      
-      <guid>https://about.cichy1173.eu/how/</guid>
+      <guid>http://localhost:1313/how/</guid>
       <description>how</description>
     </item>
-    
     <item>
       <title>My Projects</title>
-      <link>https://about.cichy1173.eu/myprojects/</link>
+      <link>http://localhost:1313/myprojects/</link>
       <pubDate>Fri, 30 Dec 2022 18:50:22 +0100</pubDate>
-      
-      <guid>https://about.cichy1173.eu/myprojects/</guid>
+      <guid>http://localhost:1313/myprojects/</guid>
       <description>projects</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/profilepicture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/profilepicture/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
